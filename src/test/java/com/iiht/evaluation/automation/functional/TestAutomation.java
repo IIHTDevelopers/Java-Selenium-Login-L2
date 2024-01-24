@@ -33,10 +33,10 @@ public class TestAutomation extends App {
                 testcase_status = false;
             }
             System.out.println("testcase_status " + testcase_status);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+			yakshaAssert(currentTest(), testcase_status, businessTestFile);
         } catch (Exception ex) {
             System.out.println("ex " + ex);
-//			yakshaAssert(currentTest(), false, businessTestFile);
+			yakshaAssert(currentTest(), false, businessTestFile);
         }
     }
 
@@ -50,10 +50,10 @@ public class TestAutomation extends App {
                 testcase_status = false;
             }
             System.out.println("testcase_status " + testcase_status);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+			yakshaAssert(currentTest(), testcase_status, businessTestFile);
         } catch (Exception ex) {
             System.out.println("ex " + ex);
-//			yakshaAssert(currentTest(), false, businessTestFile);
+		yakshaAssert(currentTest(), false, businessTestFile);
         }
     }
 
@@ -69,10 +69,10 @@ public class TestAutomation extends App {
             }
 
             System.out.println("testcase_status " + testcase_status);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+			yakshaAssert(currentTest(), testcase_status, businessTestFile);
         } catch (Exception ex) {
             System.out.println("ex " + ex);
-//			yakshaAssert(currentTest(), false, businessTestFile);
+			yakshaAssert(currentTest(), false, businessTestFile);
         }
     }
 
@@ -87,10 +87,10 @@ public class TestAutomation extends App {
                 testcase_status = false;
             }
             System.out.println("testcase_status " + testcase_status);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+		yakshaAssert(currentTest(), testcase_status, businessTestFile);
         } catch (Exception ex) {
             System.out.println("ex " + ex);
-//			yakshaAssert(currentTest(), false, businessTestFile);
+			yakshaAssert(currentTest(), false, businessTestFile);
         }
     }
 
@@ -114,10 +114,10 @@ public class TestAutomation extends App {
                 }
             }
             System.out.println("testcase_status " + testcase_status);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+			yakshaAssert(currentTest(), testcase_status, businessTestFile);
         } catch (Exception ex) {
             System.out.println("ex " + ex);
-//			yakshaAssert(currentTest(), false, businessTestFile);
+			yakshaAssert(currentTest(), false, businessTestFile);
         }
     }
 
@@ -132,10 +132,10 @@ public class TestAutomation extends App {
                 testcase_status = false;
             }
             System.out.println("testcase_status " + testcase_status);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+			yakshaAssert(currentTest(), testcase_status, businessTestFile);
         } catch (Exception ex) {
             System.out.println("ex " + ex);
-//			yakshaAssert(currentTest(), false, businessTestFile);
+			yakshaAssert(currentTest(), false, businessTestFile);
         }
     }
 
@@ -152,10 +152,10 @@ public class TestAutomation extends App {
                 testcase_status = false;
             }
             System.out.println("testcase_status " + testcase_status);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+			yakshaAssert(currentTest(), testcase_status, businessTestFile);
         } catch (Exception ex) {
             System.out.println("ex " + ex);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+			yakshaAssert(currentTest(), testcase_status, businessTestFile);
         }
     }
 
@@ -172,10 +172,10 @@ public class TestAutomation extends App {
                 testcase_status = false;
             }
             System.out.println("testcase_status " + testcase_status);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+			yakshaAssert(currentTest(), testcase_status, businessTestFile);
         } catch (Exception ex) {
             System.out.println("ex " + ex);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+		yakshaAssert(currentTest(), testcase_status, businessTestFile);
         }
     }
 
@@ -192,10 +192,10 @@ public class TestAutomation extends App {
                 testcase_status = false;
             }
             System.out.println("testcase_status " + testcase_status);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+		yakshaAssert(currentTest(), testcase_status, businessTestFile);
         } catch (Exception ex) {
             System.out.println("ex " + ex);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+			yakshaAssert(currentTest(), testcase_status, businessTestFile);
         }
     }
 
@@ -212,10 +212,10 @@ public class TestAutomation extends App {
                 testcase_status = false;
             }
             System.out.println("testcase_status " + testcase_status);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+			yakshaAssert(currentTest(), testcase_status, businessTestFile);
         } catch (Exception ex) {
             System.out.println("ex " + ex);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+			yakshaAssert(currentTest(), testcase_status, businessTestFile);
         }
     }
 
@@ -269,10 +269,10 @@ public class TestAutomation extends App {
                 }
             }
             System.out.println("testcase_status " + testcase_status);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+		yakshaAssert(currentTest(), testcase_status, businessTestFile);
         } catch (Exception ex) {
-            System.out.println("ex " + ex);
-//			yakshaAssert(currentTest(), false, businessTestFile);
+          System.out.println("ex " + ex);
+			yakshaAssert(currentTest(), false, businessTestFile);
         }
     }
 
@@ -325,10 +325,10 @@ public class TestAutomation extends App {
                 }
             }
             System.out.println("testcase_status " + testcase_status);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+			yakshaAssert(currentTest(), testcase_status, businessTestFile);
         } catch (Exception ex) {
             System.out.println("ex " + ex);
-//			yakshaAssert(currentTest(), testcase_status, businessTestFile);
+			yakshaAssert(currentTest(), testcase_status, businessTestFile);
         }
     }
 
